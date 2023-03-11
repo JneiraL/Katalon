@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TestDB</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>04c7a53f-6511-43b3-aff2-2874a3f5c1ec</dataFileGUID>
+   <dataSourceUrl>jdbc:sqlserver://10.1.0.6\sql2014;databaseName=QC_PRE_PRODUCCION</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>JERlSmFNZWVOVFJhUjIwMjEk</password>
+   <query>Select top 3 primernombre,numeroIdentificacion from agro.Solicitante</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>sa</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

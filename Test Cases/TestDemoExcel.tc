@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestDemoExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>156de0b9-cb10-458d-b978-d4ea949bdadc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9571f89-7971-4a76-914f-698419f01c38</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>49affdc9-9000-46f3-9c74-231b14105ef3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b9571f89-7971-4a76-914f-698419f01c38</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49affdc9-9000-46f3-9c74-231b14105ef3</id>
+      <masked>false</masked>
+      <name>Psw</name>
+   </variable>
+</TestCaseEntity>

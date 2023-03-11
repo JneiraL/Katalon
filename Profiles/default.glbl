@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>user invalid</description>
+      <initValue>'Jneira'</initValue>
+      <name>User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Psw invalid</description>
+      <initValue>'Jneira'</initValue>
+      <name>Psw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fakeurl</description>
+      <initValue>'https://www.saucedemo.com/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

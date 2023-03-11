@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Perfil Dev</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>user correct</description>
+      <initValue>'John Doe'</initValue>
+      <name>User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Psw correct</description>
+      <initValue>'ThisIsNotAPassword'</initValue>
+      <name>Psw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>http://demoaut.katalon.com/</description>
+      <initValue>''</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

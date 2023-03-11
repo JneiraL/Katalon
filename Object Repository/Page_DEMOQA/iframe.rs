@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>a1fe3b3e-f47c-4608-be5d-cf8564c3a034</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>c1df48f2-69f7-42c8-bd23-decc4d064b63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcdoc</name>
+      <type>Main</type>
+      <value>&lt;p>Child Iframe&lt;/p></value>
+      <webElementGuid>6e59090e-636e-4411-8e76-543494bd6598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/iframe[1]</value>
+      <webElementGuid>374e6f03-c519-4984-b8a2-15a6aa107adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_DEMOQA/iframe_Book Store API_frame1_1</value>
+      <webElementGuid>a73bc9d3-e6ee-403d-b809-b0c7e47df4ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>28a8eedd-8e3e-49a9-af7a-924424c390ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
